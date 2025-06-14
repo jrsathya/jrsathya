@@ -54,7 +54,6 @@ Welcome to my GitHub profile! I am a passionate and experienced Data Integration
 ## 📚 Learning Journey
 
 I am constantly expanding my skill set to stay ahead in the ever-evolving tech landscape. Currently, I am learning:
-- **Python**: To enhance my data analysis and automation capabilities.
 - **SAP CPI**: To explore integration opportunities in the SAP ecosystem.
 
 ---
