@@ -1,169 +1,78 @@
-<h1 align="center">
-Hi 👋 I'm Sathya J R
-</h1>
+<h1 align="center">Hi, I'm Sathya J R 👋</h1>
+<h3 align="center">SAP CPI Consultant | SAP BTP Integration Suite | PI → CPI Migration Specialist</h3>
 
-<h3 align="center">
-SAP CPI | SAP BTP Integration Suite | Integration Portfolio & Learning Repository
-</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sathya-j-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:sathyajr22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Chennai%2C%20India-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white">
+</p>
 
----
+<p align="center">
+5+ years designing and delivering enterprise integrations on SAP BTP Integration Suite — with a track record of migrating 50+ interfaces from SAP PI to CPI for Life Sciences & Healthcare clients. This repo is my hands-on playground where I rebuild real-world integration patterns to sharpen my skills and share my learning in the open.
+</p>
 
-# 🚀 About Me
+<br>
 
-I am an SAP Integration Consultant with **5 years of enterprise integration experience**, specializing in SAP Integration Suite (Cloud Integration), SAP PI/PO Migration, SAP B2B/EDI, and Informatica IICS.
+## 🧰 Tech Stack
 
----
+**SAP Integration**
+<br>
+![SAP CPI](https://img.shields.io/badge/SAP%20CPI-0FAAFF?style=flat-square&logo=sap&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP%20BTP-1870C5?style=flat-square&logo=sap&logoColor=white)
+![SAP PI/PO](https://img.shields.io/badge/SAP%20PI%2FPO-003366?style=flat-square&logo=sap&logoColor=white)
+![SAP B2B](https://img.shields.io/badge/SAP%20B2B%20(TPM)-0F5CA8?style=flat-square&logo=sap&logoColor=white)
+![Informatica IICS](https://img.shields.io/badge/Informatica%20IICS-FF6F00?style=flat-square&logo=informatica&logoColor=white)
 
-## 👨‍💻 Professional Highlights
+**Adapters & Protocols**
+<br>
+![IDoc](https://img.shields.io/badge/IDoc-555555?style=flat-square)
+![SOAP](https://img.shields.io/badge/SOAP-006B45?style=flat-square)
+![REST](https://img.shields.io/badge/REST-02569B?style=flat-square)
+![SFTP](https://img.shields.io/badge/SFTP-4B5563?style=flat-square)
+![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat-square)
+![JMS](https://img.shields.io/badge/JMS-C71A36?style=flat-square)
 
-✔️ 5 Years of Integration Experience
+**Languages & Mapping**
+<br>
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![XML](https://img.shields.io/badge/XML-F76D57?style=flat-square)
+![XSLT](https://img.shields.io/badge/XSLT-E44D26?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 
-✔️ SAP Integration Suite (Cloud Integration)
+**Security**
+<br>
+![OAuth2.0](https://img.shields.io/badge/OAuth%202.0-3C4858?style=flat-square)
+![Certificates](https://img.shields.io/badge/Certificates%20%26%20Keystore-6E4B9C?style=flat-square)
 
-✔️ SAP BTP
+<br>
 
-✔️ SAP PI/PO
+## 🎯 Currently Building
+Rebuilding integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through every palette function (Router, Splitter, Gather, Join, Aggregator, Multicast, Exception Subprocess) with sample iFlows and Groovy scripts.
 
-✔️ SAP B2B (TPM)
+## 🌱 Currently Learning
+`SAP API Management` · `SAP Event Mesh` · `SAP Build` · `SAP AI Core` · `SAP Joule`
 
-✔️ Informatica IICS
+## 🏅 Certifications
+- Infosys Certified SAP Integration Professional
+- Cloud Data Integration for Developer – Advanced (Informatica)
+- Boomi Associate Integration Developer
+- Workato Automation Pro I
 
-✔️ SAP ECC Integrations
+<br>
 
-✔️ Agile Delivery
+## 📊 GitHub Stats
 
-✔️ Production Support
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jrsathya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jrsathya&theme=tokyonight&hide_border=true" />
+</p>
 
-✔️ Hypercare
+<br>
 
-✔️ Sprint Release Management
+## 🤝 Let's Connect
+Open to conversations on SAP CPI, integration architecture, or PI-to-CPI migration strategy.
 
-✔️ Figaf Testing
+<p align="left">
+  <a href="https://www.linkedin.com/in/sathya-j-r"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
-✔️ SAP Migration Assessment Tool
-
-✔️ Technical Documentation
-
-✔️ Knowledge Transfer Sessions
-
----
-
-# 🛠 Tech Stack
-
-### SAP Technologies
-
-- SAP Integration Suite
-- SAP CPI
-- SAP PI/PO
-- SAP BTP
-- SAP B2B (TPM)
-
-### Integration
-
-- IDoc
-- SOAP
-- REST
-- HTTPS
-- SFTP
-- JDBC
-- JMS
-- Process Direct
-
-### Mapping
-
-- Message Mapping
-- XSLT
-- Value Mapping
-
-### Enterprise Integration Patterns
-
-- Router
-- Splitter
-- Gather
-- Join
-- Aggregator
-- Multicast
-- Exception Subprocess
-
-### Security
-
-- OAuth 2.0
-- Certificates
-- Keystore
-- Basic Authentication
-
-### Languages
-
-- Groovy
-- XML
-- XSLT
-- JSON
-
----
-
-# 📈 Current Focus
-
-🌱 Learning
-
-- SAP API Management
-- SAP Event Mesh
-- SAP Generative AI
-- SAP Joule
-- SAP AI Core
-- SAP Build
-- Cloud Native Integrations
-
----
-
-# 🏆 Certifications
-
-🏅 Infosys Certified SAP Integration Professional
-
-🏅 Cloud Data Integration for Developer – Advanced
-
-🏅 Workato Automation Pro I
-
-🏅 Boomi Associate Integration Developer
-
----
-
-# 💼 Experience
-
-### Senior System Engineer
-
-Working on enterprise SAP Integration projects including:
-
-- SAP PI to CPI Migration
-- SAP BTP Integration Suite
-- SAP ECC Integrations
-- Production Support
-- Hypercare
-- B2B Integrations
-- Sprint Releases
-
----
-
-# 📚 GitHub Repositories
-
-📦 SAP BTP Integration Suite 
-
-- Started to implement Hands-on will cover all the pallet functions.
-
-# # 📚 Future planned Repositories
-
-📦 Complex End-to-End iflows
-📦 API Management
-📦 Event Mesh
-📦 SAP Joule
-
---- 
-
-# 🤝 Let's Connect
-
-💼 LinkedIn
-
-www.linkedin.com/in/sathya-j-r
-
----
-
-⭐ If you like SAP Integration, feel free to connect!
