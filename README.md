@@ -3,7 +3,7 @@ Hi 👋 I'm Sathya J R
 </h1>
 
 <h3 align="center">
-SAP CPI | SAP Integration Suite | SAP BTP | SAP PI/PO Migration | SAP B2B
+SAP CPI | SAP BTP Integration Suite | Integration Portfolio & Learning Repository
 </h3>
 
 ---
