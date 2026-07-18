@@ -1,68 +1,188 @@
-# Hi, I'm [Sathya] 
+<h1 align="center">
+Hi 👋 I'm Sathya J R
+</h1>
 
-## Data Integration Specialist | ETL Developer | Cloud Data Enthusiast
-
-Welcome to my GitHub profile! I am a passionate and experienced Data Integration Specialist with **3+ years of hands-on experience** in designing, developing, and implementing ETL solutions using **Informatica Cloud (IICS)**. I specialize in building scalable and efficient data pipelines to enable seamless data integration across diverse systems.
-
----
-
-## 🛠️ Technical Skills
-
-### **ETL Tools**
-- **Informatica IICS**: CDI (Cloud Data Integration) and CAI (Cloud Application Integration)
-  
-### **Databases**
-- Oracle
-- PL/SQL (for testing and validation)
-
-### **Programming & Scripting**
-- SQL
-- Shell Scripting
-
-### **Other Tools & Technologies**
-- Snowflake (Cloud Data Platform)
-- Linux (Environment and Scripting)
-
-### **Currently Learning**
-- Python (for automation and data analysis)
-- SAP CPI (Cloud Platform Integration)
+<h3 align="center">
+SAP CPI | SAP Integration Suite | SAP BTP | SAP PI/PO Migration | SAP B2B
+</h3>
 
 ---
 
-## 🚀 Projects
+# 🚀 About Me
 
-### 1. **Cloud Data Integration using IICS**
-   - Designed and developed ETL pipelines using **Informatica IICS CDI** to integrate data from multiple sources into a centralized data warehouse.
-   - Automated backend processes using **Linux Shell Scripting** with parameter files to ensure seamless execution of workflows.
-   - Worked with **Oracle** and **flat files (CSV, TXT)** as both source and target systems.
+I am an SAP Integration Consultant with **5 years of enterprise integration experience**, specializing in SAP Integration Suite (Cloud Integration), SAP PI/PO Migration, SAP B2B/EDI, and Informatica IICS.
 
-### 2. **Data Migration Projects**
-   - Migrated data from **on-premise systems to cloud** and **legacy systems to cloud** using **Informatica IICS**.
-   - Handled data migration between **Oracle databases** and **flat files (CSV, TXT)**.
-   - Implemented **synchronization tasks** to ensure data consistency across systems.
-
-### 3. **Flat File to Oracle Integration**
-   - Developed ETL workflows to load data from **flat files (CSV, TXT)** into **Oracle databases**.
-   - Optimized SQL queries and PL/SQL scripts for efficient data transformation and loading.
-
-### 4. **Oracle to Flat File Integration**
-   - Designed and implemented ETL processes to extract data from **Oracle databases** and export it to **flat files (CSV, TXT)**.
-   - Automated the process using **Shell Scripting** to reduce manual intervention.
+Currently working on enterprise-scale integration projects involving cloud and on-premise SAP landscapes for global healthcare and pharmaceutical clients.
 
 ---
 
-## 📚 Learning Journey
+## 👨‍💻 Professional Highlights
 
-I am constantly expanding my skill set to stay ahead in the ever-evolving tech landscape. Currently, I am learning:
-- **SAP CPI**: To explore integration opportunities in the SAP ecosystem.
+✔️ 5 Years of Integration Experience
+
+✔️ 50+ SAP PI → SAP CPI Interface Migrations
+
+✔️ SAP Integration Suite (Cloud Integration)
+
+✔️ SAP BTP
+
+✔️ SAP PI/PO
+
+✔️ SAP B2B (TPM)
+
+✔️ Informatica IICS
+
+✔️ SAP ECC Integrations
+
+✔️ Agile Delivery
+
+✔️ Production Support
+
+✔️ Hypercare
+
+✔️ Sprint Release Management
+
+✔️ Figaf Testing
+
+✔️ SAP Migration Assessment Tool
+
+✔️ Technical Documentation
+
+✔️ Knowledge Transfer Sessions
 
 ---
 
-## 🌟 Let's Connect!
+# 🛠 Tech Stack
 
-I'm always open to collaborating on exciting projects or discussing data integration challenges. Feel free to reach out to me:
+### SAP Technologies
 
-- [LinkedIn](www.linkedin.com/in/sathya-j-r-7a99b1203)
+- SAP Integration Suite
+- SAP CPI
+- SAP PI/PO
+- SAP BTP
+- SAP B2B (TPM)
+
+### Integration
+
+- IDoc
+- SOAP
+- REST
+- HTTPS
+- SFTP
+- JDBC
+- JMS
+- Process Direct
+
+### Mapping
+
+- Message Mapping
+- XSLT
+- Value Mapping
+
+### Enterprise Integration Patterns
+
+- Router
+- Splitter
+- Gather
+- Join
+- Aggregator
+- Multicast
+- Exception Subprocess
+
+### Security
+
+- OAuth 2.0
+- Certificates
+- Keystore
+- Basic Authentication
+
+### Languages
+
+- Groovy
+- XML
+- XSLT
+- JSON
+
 ---
 
-⭐️ **Thanks for visiting my profile!** ⭐️
+# 📈 Current Focus
+
+🌱 Learning
+
+- SAP API Management
+- SAP Event Mesh
+- SAP Generative AI
+- SAP Joule
+- SAP AI Core
+- SAP Build
+- Cloud Native Integrations
+
+---
+
+# 🏆 Certifications
+
+🏅 Infosys Certified SAP Integration Professional
+
+🏅 Cloud Data Integration for Developer – Advanced
+
+🏅 Workato Automation Pro I
+
+🏅 Boomi Associate Integration Developer
+
+---
+
+# 💼 Experience
+
+### Senior System Engineer
+
+Infosys Ltd.
+
+Working on enterprise SAP Integration projects including:
+
+- SAP PI to CPI Migration
+- SAP BTP Integration Suite
+- SAP ECC Integrations
+- Production Support
+- Hypercare
+- B2B Integrations
+- Sprint Releases
+
+---
+
+# 📚 GitHub Repositories
+
+📦 SAP CPI Learning
+
+📦 SAP CPI Groovy Scripts
+
+📦 Integration Patterns
+
+📦 SAP Interview Questions
+
+📦 SAP CPI Cheat Sheets
+
+📦 Message Mapping
+
+📦 Exception Handling
+
+📦 API Management
+
+📦 Event Mesh
+
+📦 SAP BTP Learning
+
+---
+
+# 🤝 Let's Connect
+
+📧 Email
+
+sathyajr22@gmail.com
+
+💼 LinkedIn
+
+www.linkedin.com/in/sathya-j-r
+
+---
+
+⭐ If you like SAP Integration, feel free to connect!
