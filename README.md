@@ -8,7 +8,9 @@
 </p>
 
 <p align="center">
-SAP Integration Consultant with 5+ years designing, building, and running enterprise-grade integrations on SAP BTP Integration Suite — end to end, from solution design and development through testing. This repo is my hands-on playground where I build real-world integration patterns to sharpen my skills and share my learnings.
+I am an SAP Integration Consultant with **5 years of enterprise integration experience**, specializing in SAP Integration Suite (Cloud Integration), SAP PI/PO Migration, SAP B2B/EDI, and Informatica IICS. 
+<br>
+This repo is my hands-on playground where I build real-world integration patterns to sharpen my skills and share my learnings.
 </p>
 
 <br>
