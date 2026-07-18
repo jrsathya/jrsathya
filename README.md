@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-I am an SAP Integration Consultant with **5 years of enterprise integration experience**.
+I am an SAP Integration Consultant with 5 years of enterprise integration experience.
 </p>
 <p align="center"> 
 This repo is my hands-on playground where I build real-world integration patterns to sharpen my skills and share my learnings.
