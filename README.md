@@ -12,15 +12,11 @@ SAP CPI | SAP BTP Integration Suite | Integration Portfolio & Learning Repositor
 
 I am an SAP Integration Consultant with **5 years of enterprise integration experience**, specializing in SAP Integration Suite (Cloud Integration), SAP PI/PO Migration, SAP B2B/EDI, and Informatica IICS.
 
-Currently working on enterprise-scale integration projects involving cloud and on-premise SAP landscapes for global healthcare and pharmaceutical clients.
-
 ---
 
 ## 👨‍💻 Professional Highlights
 
 ✔️ 5 Years of Integration Experience
-
-✔️ 50+ SAP PI → SAP CPI Interface Migrations
 
 ✔️ SAP Integration Suite (Cloud Integration)
 
@@ -135,8 +131,6 @@ Currently working on enterprise-scale integration projects involving cloud and o
 
 ### Senior System Engineer
 
-Infosys Ltd.
-
 Working on enterprise SAP Integration projects including:
 
 - SAP PI to CPI Migration
@@ -151,27 +145,18 @@ Working on enterprise SAP Integration projects including:
 
 # 📚 GitHub Repositories
 
-📦 SAP CPI Learning
+📦 SAP BTP Integration Suite 
 
-📦 SAP CPI Groovy Scripts
+- Started to implement Hands-on will cover all the pallet functions.
 
-📦 Integration Patterns
+# # 📚 Future planned Repositories
 
-📦 SAP Interview Questions
-
-📦 SAP CPI Cheat Sheets
-
-📦 Message Mapping
-
-📦 Exception Handling
-
+📦 Complex End-to-End iflows
 📦 API Management
-
 📦 Event Mesh
+📦 SAP Joule
 
-📦 SAP BTP Learning
-
----
+--- 
 
 # 🤝 Let's Connect
 
