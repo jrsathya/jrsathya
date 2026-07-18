@@ -175,10 +175,6 @@ Working on enterprise SAP Integration projects including:
 
 # 🤝 Let's Connect
 
-📧 Email
-
-sathyajr22@gmail.com
-
 💼 LinkedIn
 
 www.linkedin.com/in/sathya-j-r
