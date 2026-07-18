@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-SAP Integration Consultant with 5+ years designing, building, and running enterprise-grade integrations on SAP BTP Integration Suite — end to end, from solution design and development through testing, go-live, and hypercare. This repo is my hands-on playground where I rebuild real-world integration patterns to keep leveling up and share what I learn.
+SAP Integration Consultant with 5+ years designing, building, and running enterprise-grade integrations on SAP BTP Integration Suite — end to end, from solution design and development through testing, go-live, and hypercare. This repo is my hands-on playground where I rebuild real-world integration patterns to sharpen my skills and share my learning.
 </p>
 
 <br>
@@ -49,7 +49,7 @@ SAP Integration Consultant with 5+ years designing, building, and running enterp
 <br>
 
 ## 🎯 Currently Building
-Rebuilding integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through every palette functions, including  **Message Transformers** (Content Modifier, Converter, Filter, Groovy Script), **Message Router** (Router, Splitter, Gather, Join, Aggregator, Multicast), **Persistence** (Write Variables, Data Store Operations) and **Call**, **Exception Handling** and sample iFlows and Groovy scripts.
+Building integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through every palette functions, including  **Message Transformers** (Content Modifier, Converter, Filter, Groovy Script), **Message Router** (Router, Splitter, Gather, Join, Aggregator, Multicast), **Persistence** (Write Variables, Data Store Operations) and **Call**, **Exception Handling** and sample iFlows and Groovy scripts.
 
 ## 🌱 Currently Learning
 `SAP API Management` · `SAP Event Mesh` · `SAP Build` · `SAP AI Core` · `SAP Joule`
