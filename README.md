@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-5+ years designing and delivering enterprise integrations on SAP BTP Integration Suite — with a track record of migrating 50+ interfaces from SAP PI to CPI for Life Sciences & Healthcare clients. This repo is my hands-on playground where I rebuild real-world integration patterns to sharpen my skills and share my learning in the open.
+SAP Integration Consultant with 5+ years designing, building, and running enterprise-grade integrations on SAP BTP Integration Suite — end to end, from solution design and development through testing, go-live, and hypercare. This repo is my hands-on playground where I rebuild real-world integration patterns to keep leveling up and share what I learn in the open.
 </p>
 
 <br>
