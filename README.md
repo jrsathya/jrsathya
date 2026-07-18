@@ -8,8 +8,7 @@
 </p>
 
 <p align="center">
-SAP Integration Consultant with 5+ years designing, building, and running enterprise-grade integrations on SAP BTP Integration Suite — end to end, from solution design and development through testing, go-live, and hypercare. 
-This repo is my hands-on playground where I rebuild real-world integration patterns to sharpen my skills and share my learnings.
+SAP Integration Consultant with 5+ years designing, building, and running enterprise-grade integrations on SAP BTP Integration Suite — end to end, from solution design and development through testing, go-live, and hypercare. This repo is my hands-on playground where I rebuild real-world integration patterns to keep leveling up and share what I learn in the open.
 </p>
 
 <br>
@@ -24,13 +23,15 @@ This repo is my hands-on playground where I rebuild real-world integration patte
 ![SAP B2B](https://img.shields.io/badge/SAP%20B2B%20(TPM)-0F5CA8?style=flat-square&logo=sap&logoColor=white)
 ![Informatica IICS](https://img.shields.io/badge/Informatica%20IICS-FF6F00?style=flat-square&logo=informatica&logoColor=white)
 
-**Adapters & Protocols**
+**Adapters & Connectivity**
 <br>
 ![IDoc](https://img.shields.io/badge/IDoc-555555?style=flat-square)
-![SOAP](https://img.shields.io/badge/SOAP-006B45?style=flat-square)
-![REST](https://img.shields.io/badge/REST-02569B?style=flat-square)
 ![SFTP](https://img.shields.io/badge/SFTP-4B5563?style=flat-square)
+![Process Direct](https://img.shields.io/badge/Process%20Direct-7A5195?style=flat-square)
+![HTTPS](https://img.shields.io/badge/HTTPS-2E7D32?style=flat-square)
 ![JDBC](https://img.shields.io/badge/JDBC-336791?style=flat-square)
+![SOAP](https://img.shields.io/badge/SOAP-006B45?style=flat-square)
+![Mail](https://img.shields.io/badge/Mail-D14836?style=flat-square)
 ![JMS](https://img.shields.io/badge/JMS-C71A36?style=flat-square)
 
 **Languages & Mapping**
@@ -47,8 +48,19 @@ This repo is my hands-on playground where I rebuild real-world integration patte
 
 <br>
 
+## 🧩 iFlow Palette Functions
+
+| Category | Steps |
+|---|---|
+| **Message Transformers** | Content Modifier, Converter, Filter, Groovy Script |
+| **Message Router** | Router, Splitter, Gather, Join, Aggregator, Multicast |
+| **Call** | External Call (Request-Reply) |
+| **Exception Handling** | Exception Subprocess, Error Handling |
+
+<br>
+
 ## 🎯 Currently Building
-Rebuilding integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through every palette function (Router, Splitter, Gather, Join, Aggregator, Multicast, Exception Subprocess) with sample iFlows and Groovy scripts.
+Rebuilding integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through the remaining palette categories, including **Persistence** (Write Variables, Data Store Operations) and **Local Call / Lookup**, with sample iFlows and Groovy scripts.
 
 ## 🌱 Currently Learning
 `SAP API Management` · `SAP Event Mesh` · `SAP Build` · `SAP AI Core` · `SAP Joule`
