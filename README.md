@@ -48,19 +48,8 @@ SAP Integration Consultant with 5+ years designing, building, and running enterp
 
 <br>
 
-## 🧩 iFlow Palette Functions
-
-| Category | Steps |
-|---|---|
-| **Message Transformers** | Content Modifier, Converter, Filter, Groovy Script |
-| **Message Router** | Router, Splitter, Gather, Join, Aggregator, Multicast |
-| **Call** | External Call (Request-Reply) |
-| **Exception Handling** | Exception Subprocess, Error Handling |
-
-<br>
-
 ## 🎯 Currently Building
-Rebuilding integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through the remaining palette categories, including **Persistence** (Write Variables, Data Store Operations) and **Local Call / Lookup**, with sample iFlows and Groovy scripts.
+Rebuilding integration flows in **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-BTP-Integration-Suite)** — working through the remaining palette categories, including  **Message Transformers** (Content Modifier, Converter, Filter, Groovy Script), **Message Router** (Router, Splitter, Gather, Join, Aggregator, Multicast), **Persistence** (Write Variables, Data Store Operations) and **Call**, **Exception Handling** and sample iFlows and Groovy scripts.
 
 ## 🌱 Currently Learning
 `SAP API Management` · `SAP Event Mesh` · `SAP Build` · `SAP AI Core` · `SAP Joule`
