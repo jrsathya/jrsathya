@@ -10,7 +10,7 @@
 I am an SAP Integration Consultant with 5 years of enterprise integration experience.
 </p>
 <p align="center"> 
-This repo is my hands-on playground where I build real-world integration patterns to sharpen my skills and share my learnings.
+This repository is a hands-on record where I break down each palette function into focused iFlows — covering every scenario from basic to advanced to sharpen my skills and share my learnings.
 </p>
 
 <br>
@@ -36,9 +36,10 @@ I just kicked off **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-
 
 - **Message Transformers** — Content Modifier, Converter, Filter, Groovy Script
 - **Message Router** — Router, Splitter, Gather, Join, Aggregator, Multicast
-- **Call** — External Call (Request-Reply)
-- **Persistence** — Write Variables, Data Store Operations
-- **Exception Handling** — Exception Subprocess, Error Handling
+- **Call** — External and Local Call
+- **Persistence** — Persist, Write Variables, Data Store Operations
+- **Exception Handling**
+- **Exception Handling** 
 
 ## 🌱 Currently Learning
 `SAP API Management` · `SAP Event Mesh` · `SAP Build` · `SAP AI Core` · `SAP Joule`
