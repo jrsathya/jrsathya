@@ -8,7 +8,7 @@
 <p align="center"><sub>📍 Chennai, India</sub></p>
 
 <p align="center">
-I turn complex SAP landscapes into integrations that just work — reliably, securely, and built to last. 5+ years across the full integration lifecycle, from design through hypercare, with 50+ interfaces migrated from SAP PI to CPI in regulated, compliance-driven environments. This repository is where I open-source that craft, rebuilding real-world iFlow patterns from the ground up.
+SAP Integration Consultant with 5+ years of experience in enterprise integration. This repository is my personal space to build, practice, and share hands-on SAP CPI work.
 </p>
 
 <br>
