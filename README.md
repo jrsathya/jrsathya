@@ -5,7 +5,6 @@
   <a href="https://www.linkedin.com/in/sathya-j-r"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"></a>
   <a href="mailto:sathyajr22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"></a>
 </p>
-<p align="center"><sub>📍 Chennai, India</sub></p>
 
 <p align="center">
 I am an SAP Integration Consultant with 5 years of enterprise integration experience.
