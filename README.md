@@ -8,7 +8,10 @@
 <p align="center"><sub>📍 Chennai, India</sub></p>
 
 <p align="center">
-SAP Integration Consultant with 5+ years of experience in enterprise integration. This repository is my personal space to build, practice, and share hands-on SAP CPI work.
+I am an SAP Integration Consultant with 5 years of enterprise integration experience.
+</p>
+<p align="center"> 
+This repo is my hands-on playground where I build real-world integration patterns to sharpen my skills and share my learnings.
 </p>
 
 <br>
