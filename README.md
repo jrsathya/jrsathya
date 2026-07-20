@@ -39,7 +39,7 @@ I just kicked off **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-
 - **Call** — External and Local Call
 - **Persistence** — Persist, Write Variables, Data Store Operations
 - **Exception Handling**
-- **Exception Handling** 
+- **Mapping** - Message, Value and XSLT Mapping 
 
 ## 🌱 Currently Learning
 `SAP API Management` · `SAP Event Mesh` · `SAP Build` · `SAP AI Core` · `SAP Joule`
