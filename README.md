@@ -53,15 +53,6 @@ I just kicked off **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jrsathya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jrsathya&theme=tokyonight&hide_border=true" />
-</p>
-
-<br>
-
 ## 🤝 Let's Connect
 Open to conversations on SAP CPI, integration architecture, or PI-to-CPI migration strategy.
 
