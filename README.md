@@ -46,10 +46,10 @@ I just kicked off **[SAP-BTP-Integration-Suite](https://github.com/jrsathya/SAP-
 
 ## 🏅 Certifications & Recognition
 - Infosys Certified SAP Integration Professional
-- Cloud Data Integration for Developer – Advanced (Informatica)
+- Cloud Data Integration for Developer – Advanced
 - Boomi Associate Integration Developer
 - Workato Automation Pro I
-- 🏆 INSTA Award – Infosys Limited (2023)
+- 🏆 INSTA Award – Infosys Limited 
 
 <br>
 
